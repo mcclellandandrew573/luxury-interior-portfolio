@@ -73,64 +73,64 @@ export const projectsData: ProjectData[] = [
     category: 'Multifamily Value-Add Repositioning',
     location: 'Dallas, Texas',
     year: '2018',
-    image: '/PORTFOLIOPAGES/01-00-clover/HERO/IMAGEHERO.png',
+    image: 'https://drive.google.com/file/d/1ju0sg93HykgB6qLKbuILnzzdh05cLmDt/view?usp=drive_link',
     link: '/work/Clover',
     amenities: [
       {
         title: 'Resort Style Pool',
         description: 'A tranquil retreat designed to create a resort-style living experience, enhance the unique appeal of the property while creating a statement to increase visability and drive occupancy rates.',
-        image: '/PORTFOLIOPAGES/01-00-clover/B&A/VIEW16.png'
+        image: 'https://drive.google.com/file/d/1kSM5edpLM5sKIixpLu5qFilGalIXctkf/view?usp=drive_link'
       },
       {
         title: 'Fitness Center',
         description: 'Updated fitness center with new equipment and finishes.',
-        image: '/PORTFOLIOPAGES/01-00-clover/B&A/VIEW10.png'
+        image: 'https://drive.google.com/file/d/1sR-7oUH0b6h_iB-lJsEfoE7aMDRPfXbx/view?usp=drive_link'
       },
       {
         title: 'Resident Lounge',
         description: 'An exclusive area for residents to unwind, featuring comfortable seating, and a premium beverage station.',
-        image: '/PORTFOLIOPAGES/01-00-clover/B&A/VIEW14.png'
+        image: 'https://drive.google.com/file/d/1zCuevQAZEwyOFM-zx2OEXxZ9htgsYGmQ/view?usp=drive_link'
       },
       {
         title: 'Playgrounds + Outdoor Kitchen/Grill Areas',
         description: 'Panoramic city views complemented by landscaped gardens, fire pits, and comfortable lounging areas perfect for evening gatherings.',
-        image: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_08_after.jpg'
+        image: 'https://drive.google.com/file/d/1dcwcZYFhL5RQ6yTuhMPbDFCidCwOk1Yx/view?usp=drive_link'
       },
       {
         title: 'Dog Park',
         description: 'Panoramic city views complemented by landscaped gardens, fire pits, and comfortable lounging areas perfect for evening gatherings.',
-        image: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_17_after.jpg'
+        image: 'https://drive.google.com/file/d/1C53znYSMGluTOpnXyvhnld61ubgrykVy/view?usp=drive_link'
       },
       {
         title: 'Fire Pit Area',
         description: 'Panoramic city views complemented by landscaped gardens, fire pits, and comfortable lounging areas perfect for evening gatherings.',
-        image: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_18_after.jpg'
+        image: 'https://drive.google.com/file/d/1rQozBC6kYcjP9YfBty3JWThQz1g7UBMT/view?usp=drive_link'
       }
     ],
     commonSpaces: [
       {
         title: 'Grand Entrance',
-        image: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_13_after.jpg',
+        image: 'https://drive.google.com/file/d/1_78klSsQOYW1-TQke9I50S8DAgGNg4sz/view?usp=drive_link',
         details: 'Double-height ceiling with custom leasing desk details and multifamily branding'
       },
       {
         title: 'Main Lobby',
-        image: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_14_after.jpg',
+        image: 'https://drive.google.com/file/d/1agcaSV_VdNkgPlU3NPD3Cn3rAgijFE90/view?usp=drive_link',
         details: 'Concrete stained flooring, buffalo check upholstry and black metal tables for perspective residents to engage with leasing agents.'
       },
       {
         title: 'Kitchenette - concept',
-        image: '/PORTFOLIOPAGES/01-00-clover/RENDER/Render6@4x.png',
+        image: 'https://drive.google.com/file/d/1Z7gW3dHNzGoHfxZcJ4rczuuvoSfkI42H/view?usp=drive_link',
         details: 'Green Tile, White Stone Countertops, Wood Details and finishes, Accent Color Upholstry.'
       },
       {
         title: 'Wifi Lounge + Co-working Bar - concept',
-        image: '/PORTFOLIOPAGES/01-00-clover/RENDER/Render5.png',
+        image: 'https://drive.google.com/file/d/1iCt72WPOXywnj6cpMZUOTH82DPyNxpIQ/view?usp=drive_link',
         details: 'Natural Stained wood finishes, Black Metal and Matte Paint Accents, Green Upholstry accents and modern light fixtures.'
       },
       {
         title: 'Waiting Area',
-        image: '/PORTFOLIOPAGES/01-00-clover/amenityspaces-renderings/clover_sketch_03.jpg',
+        image: 'https://drive.google.com/file/d/1IXD5Ztn1YhzZT27q0EbVRU5yqpq6UXCo/view?usp=drive_link',
         details: 'Stylized waiting area with accent wall and modern seating.'
       }
     ],
@@ -176,57 +176,57 @@ export const projectsData: ProjectData[] = [
       {
         title: 'Primary Palette & Textures',
         description: 'The foundation of the design features warm neutrals, natural stone, and brushed brass. This direction establishes a timeless and sophisticated atmosphere that flows throughout the space.',
-        image: '/PORTFOLIOPAGES/01-00-clover/bkup/clvr/image-gen21.png',
+        image: 'https://drive.google.com/file/d/1iWJkVpqM6OHCoA14JOz8UMgjznkm_p4P/view?usp=drive_link',
         tags: ['Warm Neutrals', 'Natural Stone', 'Brushed Brass', 'Organic Textures']
       },
       {
         title: 'Accent Elements & Styling',
         description: 'Layering depth through deep jewel tones, rich wood veneers, and sculptural lighting. These elements provide contrast and visual interest while maintaining elegance.',
-        image: '/PORTFOLIOPAGES/01-00-clover/bkup/incase/01.jpg',
+        image: 'https://drive.google.com/file/d/1tzSf7fNhz5tz8NeyXl1mV6wlQDhnWy-n/view?usp=drive_link',
         tags: ['Jewel Tones', 'Walnut Veneer', 'Sculptural Forms', 'Textured Glass']
       }
     ],
     beforeAfter: [
       {
         title: 'Signage/ Property Frontage',
-        before: '/PORTFOLIOPAGES/01-00-clover/VIEW1.png',
-        after: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_00_after.jpg',
+        before: 'https://drive.google.com/file/d/1JnVmAOrIyR2tFXENFiz9BETkDF1zOOxb/view?usp=drive_link',
+        after: 'https://drive.google.com/file/d/17iLx3jCPd9lSL8RWgMnioZ0ZtBsxVEi-/view?usp=drive_link',
         description: 'The Tired Property Sign needed a much cleaner and more visable statment to be made to promote the property and create more visual awareness.'
       },
       {
         title: 'Main Pool',
-        before: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_09_before.jpg',
-        after: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_09_after.jpg',
+        before: 'https://drive.google.com/file/d/198SFGPUD-ps_SgeyFMsROEQ4xcrNmE-T/view?usp=drive_link',
+        after: 'https://drive.google.com/file/d/1X8T5wEVtQZzdJmW7fJ-z-B-wxHJIZJaf/view?usp=drive_link',
         description: 'Re-designing the Pool with the new "gate" water feature and cabana area to create a more upscale and resort-like feel.'
       },
       {
         title: 'Unit Model bedroom',
-        before: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_01_before.jpg',
-        after: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_01_after.jpg',
+        before: 'https://drive.google.com/file/d/1o24qjpo3XlYzn39hCJTF6zVztybNyI3f/view?usp=drive_link',
+        after: 'https://drive.google.com/file/d/1xS2C-7THYm8WlrFKDL3eZQnBT3a6vc9p/view?usp=drive_link',
         description: 'The Model Unit was outdated and needed a refresh to appeal to the target demographic. The space was transformed with new finishes, furniture, and accessories.'
       },
       {
         title: 'Main Lobby',
-        before: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_14_before.jpg',
-        after: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_14_after.jpg',
+        before: 'https://drive.google.com/file/d/1EgE5S6SGnHxbAQGroQAXfqCBEid_IJ2Z/view?usp=drive_link',
+        after: 'https://drive.google.com/file/d/1agcaSV_VdNkgPlU3NPD3Cn3rAgijFE90/view?usp=drive_link',
         description: 'The Main lobby was outdated, broken up and underutilized. The space was transformed with new finishes, furniture, and accessories.'
       },
       {
         title: 'Leasing Lounge',
-        before: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_15_before.jpg',
-        after: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_15_after.jpg',
+        before: 'https://drive.google.com/file/d/1aPXgIQp-50MvRONEsuaP85rJzTvvQH1M/view?usp=drive_link',
+        after: 'https://drive.google.com/file/d/1zCuevQAZEwyOFM-zx2OEXxZ9htgsYGmQ/view?usp=drive_link',
         description: 'This space was not being utilized and felt disconnected from the rest of the leasing office, making the whole space feel much smaller and increasing the dated and drab presence of the property. By opening this up we created better circulation, better sightlines to the pool and other amenities and modernized the appeal.'
       },
       {
         title: 'Leasing',
-        before: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_13_before.jpg',
-        after: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_13_after.jpg',
+        before: 'https://drive.google.com/file/d/18g_8uJe9jb3Niax_e0Jmt_99t5wWuyjk/view?usp=drive_link',
+        after: 'https://drive.google.com/file/d/1_78klSsQOYW1-TQke9I50S8DAgGNg4sz/view?usp=drive_link',
         description: 'The leasing area was outdated and needed a refresh to appeal to the target demographic. The space was transformed with new finishes, furniture, and accessories.'
       },
       {
         title: 'Fitness Center',
-        before: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_12_before.jpg',
-        after: '/PORTFOLIOPAGES/01-00-clover/before-and-after-original/clover_ba_12_after.jpg',
+        before: 'https://drive.google.com/file/d/1Vck_mu9A7iuh3rbU5WNC49RTrimaDunx/view?usp=drive_link',
+        after: 'https://drive.google.com/file/d/1sR-7oUH0b6h_iB-lJsEfoE7aMDRPfXbx/view?usp=drive_link',
         description: 'The fitness center was outdated and needed a refresh to appeal to the target demographic. The space was transformed with new finishes, furniture, and accessories.'
       }
     ],
@@ -235,25 +235,25 @@ export const projectsData: ProjectData[] = [
         name: 'Dark Walnut Stain',
         category: 'Wood',
         application: 'Flooring LVT in Units and Lobby Accents',
-        image: '/PORTFOLIOPAGES/01-00-clover/MATERIALS/02.png'
+        image: 'https://drive.google.com/file/d/1QR1Jqdv0JLbZkaqJCz6rCd8urSUxMVu7/view?usp=drive_link'
       },
       {
         name: 'Accent Upholstry',
         category: 'Textile',
         application: 'Furniture Accent Color / Upholstry',
-        image: '/PORTFOLIOPAGES/01-00-clover/MATERIALS/MATERIAL1.png'
+        image: 'https://drive.google.com/file/d/1hxc8-Qvf2qw71O3WLStTQVxCMFLkWhpG/view?usp=drive_link'
       },
       {
         name: 'Buffalo Check Upholstry',
         category: 'Textile',
         application: 'Lobby Chair Upholstry',
-        image: '/PORTFOLIOPAGES/01-00-clover/MATERIALS/MATERIAL2.png'
+        image: 'https://drive.google.com/file/d/1tgY0rjZk4mHunwVeZhIRfNzgscAaCiul/view?usp=drive_link'
       },
       {
         name: 'Polished Concrete',
         category: 'Concrete',
         application: 'Stained and Polished Concrete Finish',
-        image: '/PORTFOLIOPAGES/01-00-clover/MATERIALS/MATERIAL4.png'
+        image: 'https://drive.google.com/file/d/1EIHmdVaWRqtMyYfPbpsRpYpReSd4p56D/view?usp=drive_link'
       }
     ],
     colors: [
@@ -271,54 +271,54 @@ export const projectsData: ProjectData[] = [
     category: 'Multi-family',
     location: 'Fort Worth, Texas',
     year: '2019',
-    image: '/PORTFOLIOPAGES/01-01-revelstoke/HERO/Rectangle6.png',
+    image: 'https://drive.google.com/file/d/17a-IHhJcFMrWv5ZTCE22__nyUL_YzWDB/view?usp=drive_link',
     link: '/work/Revelstoke',
     amenities: [
       {
         title: 'Resort-Style Pool Deck',
         description: 'A resort-inspired pool courtyard serves as the central outdoor amenity space, offering lounge seating, cabanas, and sun terraces designed for relaxation and social gatherings.',
-        image: '/PORTFOLIOPAGES/01-01-revelstoke/RENDER/pool.png'
+        image: 'https://drive.google.com/file/d/1QF9yCbkdF16JAbVlFXcgIIuW4XUefaN0/view?usp=drive_link'
       },
       {
         title: 'Co-Working Hub',
         description: 'The co-working lounge offers a flexible work-from-home environment with comfortable seating, collaborative tables, and dedicated work areas.',
-        image: '/PORTFOLIOPAGES/01-01-revelstoke/RENDER/coffee.png'
+        image: 'https://drive.google.com/file/d/1TCXATrf6XyiULn3UXtJcqFtfPrvei3AI/view?usp=drive_link'
       },
       {
         title: 'Resident Bar & Multipurpose Lounge',
         description: 'This hospitality-inspired lounge includes bar seating, flexible gathering areas, and warm material finishes that create an inviting social environment.',
-        image: '/PORTFOLIOPAGES/01-01-revelstoke/RENDER/terrace.png'
+        image: 'https://drive.google.com/file/d/1j8Vq6wKNSyDuJ6qecDNgUhLXJF1dr0__/view?usp=drive_link'
       },
       {
         title: 'Game Room & Entertainment Lounge',
         description: 'The game room introduces a dynamic entertainment environment featuring lounge seating, recreational games, and media viewing areas.',
-        image: '/PORTFOLIOPAGES/01-01-revelstoke/RENDER/gameroom.png'
+        image: 'https://drive.google.com/file/d/11PZv7vb9r3LBW44tiVLj3zMRCjpkGVKY/view?usp=drive_link'
       }
     ],
     commonSpaces: [
       {
         title: 'Resident Lobby & Lounge',
-        image: '/PORTFOLIOPAGES/01-01-revelstoke/RENDER/lobby.png',
+        image: 'https://drive.google.com/file/d/1JkP6A0GT9-AmB5qVKRGieNUVPByRmhc0/view?usp=drive_link',
         details: 'The double-height resident lobby creates a welcoming arrival experience with dramatic lighting, modern furnishings, and curated art elements.'
       },
       {
         title: 'Courtyard & Outdoor Social Lawn',
-        image: '/PORTFOLIOPAGES/01-01-revelstoke/RENDER/courtyard.png',
+        image: 'https://drive.google.com/file/d/149jWT5ELZBVfM26-ajWw2TpWssGFQbms/view?usp=drive_link',
         details: 'The landscaped courtyard introduces a welcoming outdoor environment framed by residential buildings and shaded seating areas.'
       },
       {
         title: 'Open Concept Living Room',
-        image: '/PORTFOLIOPAGES/01-01-revelstoke/UNITS/living1.png',
+        image: 'https://drive.google.com/file/d/1apefA7NHRTEmcTfObO5rhuTXQadW6CIL/view?usp=drive_link',
         details: 'The living areas feature open floor plans that connect the kitchen and living spaces, maximizing natural light.'
       },
       {
         title: 'Kitchen & Dining',
-        image: '/PORTFOLIOPAGES/01-01-revelstoke/UNITS/kitchen1.png',
+        image: 'https://drive.google.com/file/d/1peMvQ-x871yM0oVULyIkbi3Gz6q86zZJ/view?usp=drive_link',
         details: 'Modern kitchens feature premium appliances, contemporary cabinetry, and designer countertops.'
       },
       {
         title: 'Primary Bedroom',
-        image: '/PORTFOLIOPAGES/01-01-revelstoke/UNITS/bedroom2.png',
+        image: 'https://drive.google.com/file/d/1wye6W8tTlwMR4oa_eWv88QhTEpcX93vj/view?usp=drive_link',
         details: 'Bedrooms provide a calm and comfortable retreat with generous windows, neutral finishes, and flexible layouts.'
       }
     ],
@@ -340,13 +340,13 @@ export const projectsData: ProjectData[] = [
       {
         title: 'Site Plan',
         description: 'Initial architectural and interior elevation concepts that formed the basis of the spatial design.',
-        image: '/PORTFOLIOPAGES/01-01-revelstoke/HERO/site.png',
+        image: 'https://drive.google.com/file/d/10mCxcryS3v1uhmIJXwYAobhHHym2eTCh/view?usp=drive_link',
         tags: ['Site Analysis', 'Rendered Site Plan', 'Space Planning']
       },
       {
         title: 'Concept Sketches',
         description: 'Early conceptual sketches exploring the volume, scale, and material applications throughout the spaces.',
-        image: '/PORTFOLIOPAGES/01-01-revelstoke/MAT-SKETCH/07-concept_sketches/revelstoke_28.jpg',
+        image: 'https://drive.google.com/file/d/18ZBkBq_cwdV20Ihd_7WStgz_HavctB5I/view?usp=drive_link',
         tags: ['Conceptual', 'Hand Sketches', 'Volume', 'Scale']
       }
     ],
@@ -355,25 +355,25 @@ export const projectsData: ProjectData[] = [
         name: 'Wood Paneling',
         category: 'Wood',
         application: 'General Finishes',
-        image: '/PORTFOLIOPAGES/01-01-revelstoke/MAT-SKETCH/3-2Container.png'
+        image: 'https://drive.google.com/file/d/1-_GceuZwWELfVWFAl4FPphMC0rM0JsoO/view?usp=drive_link'
       },
       {
         name: 'Decorative Wall Tile',
         category: 'Wall Tile',
         application: 'Accent Finishes',
-        image: '/PORTFOLIOPAGES/01-01-revelstoke/MAT-SKETCH/3-4Container.png'
+        image: 'https://drive.google.com/file/d/14XnTvjITOgTS9va5T333jjuFbq-yp1Mw/view?usp=drive_link'
       },
       {
         name: 'Stone Countertop',
         category: 'Stone',
         application: 'Textiles and Upholstery',
-        image: '/PORTFOLIOPAGES/01-01-revelstoke/MAT-SKETCH/3-1Container.png'
+        image: 'https://drive.google.com/file/d/1V_7zBIC-4z1wZ-miDk2uty2Ch8YDxcxx/view?usp=drive_link'
       },
       {
         name: 'Floor Tile',
         category: 'Tile',
         application: 'Flooring in Leasing Office',
-        image: '/PORTFOLIOPAGES/01-01-revelstoke/MAT-SKETCH/3-5Container.png'
+        image: 'https://drive.google.com/file/d/14XnTvjITOgTS9va5T333jjuFbq-yp1Mw/view?usp=drive_link'
       }
     ],
     colors: [
@@ -391,69 +391,69 @@ export const projectsData: ProjectData[] = [
     category: 'Mixed-use Redevelopment',
     location: 'Plano, Texas',
     year: '2020',
-    image: '/PORTFOLIOPAGES/02-00-collinscreek/HERO/11Rectangle6.png',
+    image: 'https://drive.google.com/file/d/10KQtrRtX6jOZ6F7E4_c9Klz-nt8LqfyR/view?usp=drive_link',
     link: '/work/CollinsCreek',
     amenities: [
       {
         title: 'Retail Shopping Strategy',
         description: 'Planning for experience, visability and flow',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/EXTERIOR/SHOPPING.png'
+        image: 'https://drive.google.com/file/d/1RoOEUjZeYlusmnNB_DqWVmRBSbgGSmOP/view?usp=drive_link'
       },
       {
         title: 'Pedestrian Entry',
         description: 'New Iconic views and entry sequence to the area creating greater visuals for the area and increasing livability.',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/EXTERIOR/04.png'
+        image: 'https://drive.google.com/file/d/1dCfvQxTKJiWHuALtIBjlSWOf7XenHsiA/view?usp=drive_link'
       },
       {
         title: 'Office Building Concept',
         description: 'An exclusive area for offices to be located allowing the mixed use building program to fully mix shopping and entertainment, work locations and living quarters. The redevelopment projects aim is to improve by creating a living community fostered around all three categories to keep the area busy and varied for investment security.',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/EXTERIOR/05.png'
+        image: 'https://drive.google.com/file/d/1QTgCpNF57Ax8eOV4Bk7mE7l4B8G6Fj_B/view?usp=drive_link'
       },
       {
         title: 'Multifamily - Leasing Lobby Concept',
         description: 'Panoramic city views complemented by landscaped gardens, fire pits, and comfortable lounging areas perfect for evening gatherings.',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/RENDERS/01.png'
+        image: 'https://drive.google.com/file/d/1pPt8QL257maCHp_lsFizGMKwzxgBEQDJ/view?usp=drive_link'
       },
       {
         title: 'Multifamily - Amenity Lounge Concept',
         description: 'Panoramic city views complemented by landscaped gardens, fire pits, and comfortable lounging areas perfect for evening gatherings.',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/RENDERS/02.png'
+        image: 'https://drive.google.com/file/d/1k_eHf3tPcTAs68Nq_uzEVEtue98DCbNa/view?usp=drive_link'
       },
       {
         title: 'Multifamily - Amenity Dog Wash Concept',
         description: 'A modern business center equipped with high-speed internet, printing facilities, and comfortable workspaces.',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/RENDERS/04.png'
+        image: 'https://drive.google.com/file/d/16FRkAgT7ebhQeFtULxf001qbnYGHSzIt/view?usp=drive_link'
       }
     ],
     commonSpaces: [
       {
         title: 'Corridor - Concepts',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/RENDERS/04-01.png',
+        image: 'https://drive.google.com/file/d/1DvSrqY5mflkn89kGIq57fdRh_syw-GQw/view?usp=drive_link',
         details: 'Double-height ceiling with custom chandelier'
       },
       {
         title: 'Corridor - Concepts',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/RENDERS/04-02.png',
+        image: 'https://drive.google.com/file/d/1SZtuoZJQxgqr4pCsrer6ek9WQ1fDTYvd/view?usp=drive_link',
         details: 'Italian marble flooring and bespoke seating'
       },
       {
         title: 'Corridor - Concepts',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/RENDERS/04-03.png',
+        image: 'https://drive.google.com/file/d/1rN3G6g3DkNMBLC6WbtfNcp6L3cuWG3mB/view?usp=drive_link',
         details: 'Bronze accents and custom paneled walls'
       },
       {
         title: 'Corridor - Concepts',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/RENDERS/04-04.png',
+        image: 'https://drive.google.com/file/d/1tGAVvXDpaiwhXhlOPCRbcfYBjozjjAcq/view?usp=drive_link',
         details: 'Walnut and brass custom reception desk'
       },
       {
         title: 'Resort Styled Pool Areas',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/RENDERS/05.png',
+        image: 'https://drive.google.com/file/d/1duh_omVNYoJ2EEGvFTlDSXUcUZhtSoEv/view?usp=drive_link',
         details: 'Curated art gallery and library'
       },
       {
         title: 'Fitness Center + Spin/ Cycle Rooms',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/RENDERS/07.png',
+        image: 'https://drive.google.com/file/d/1k63V7p8zMO6uzYcPBt1ZjhkEMu1D1qkl/view?usp=drive_link',
         details: 'Curated art gallery and library'
       }
     ],
@@ -499,13 +499,13 @@ export const projectsData: ProjectData[] = [
       {
         title: 'Site Plan + Studies',
         description: 'Collin Creek is a unified development that incorporates a compatible  mix of uses, such as retail, office space, commercial and residential, and integrated with plenty of open spaces and pedestrian networks for enhanced community.',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/HERO/site.png',
+        image: 'https://drive.google.com/file/d/1z5mXsKVLiSsn6KLrO6SdcxG-p28ZoQeL/view?usp=drive_link',
         tags: ['Multifamily', 'Hospitality', 'Office-Workplace', 'Retail/Mixed-use']
       },
       {
         title: 'Fitness Centers',
         description: 'Natural and open state of the art fitness center with a variety of equipment and amenities.',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/RENDERS/07.png',
+        image: 'https://drive.google.com/file/d/1k63V7p8zMO6uzYcPBt1ZjhkEMu1D1qkl/view?usp=drive_link',
         tags: ['Neutural Tones', 'Walnut Veneer', 'Sculptural Forms', 'Textured Glass']
       }
     ],
@@ -514,25 +514,25 @@ export const projectsData: ProjectData[] = [
         name: 'Brick',
         category: 'Brick',
         application: 'Exterior Walls',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/MAT-SKETCHES/mat01.png'
+        image: 'https://drive.google.com/file/d/1slwoteTPmzGpK5oSpnhLoT3a77OUEpk2/view?usp=drive_link'
       },
       {
         name: 'Concrete / Concrete Pavers',
         category: 'Concrete',
         application: 'Exterior Sidewalk + Flooring',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/MAT-SKETCHES/mat02.png'
+        image: 'https://drive.google.com/file/d/11Yo3oZ5PpsO5BssXGNaaFExRjOAxD7GR/view?usp=drive_link'
       },
       {
         name: 'Painted Wood Cladding',
         category: 'Wood',
         application: 'Exterior Wall Accent',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/MAT-SKETCHES/mat03.png'
+        image: 'https://drive.google.com/file/d/1gyP1eNcrt00u6pfzdtKW1XFHqWPMBr6r/view?usp=drive_link'
       },
       {
         name: 'Fluted Metal Panel',
         category: 'Metal',
         application: 'Exterior / Accent Siding',
-        image: '/PORTFOLIOPAGES/02-00-collinscreek/MAT-SKETCHES/mat04.png'
+        image: 'https://drive.google.com/file/d/1MCWvbUmOgWjoV2s_iY92TyjElYlS697K/view?usp=drive_link'
       }
     ],
     colors: [
@@ -550,7 +550,7 @@ export const projectsData: ProjectData[] = [
     category: 'Residential',
     location: 'Las Vegas, Nevada',
     year: '2026',
-    image: '/PORTFOLIOPAGES/02-01-capella/HERO/hero.png',
+    image: 'https://drive.google.com/file/d/1oLK6AM8Ozc4jsxNa4wEiMHkY6wrO9ZDI/view?usp=drive_link',
     link: '/work/Capella',
     amenities: [
       {
