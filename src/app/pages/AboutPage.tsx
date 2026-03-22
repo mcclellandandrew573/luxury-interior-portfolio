@@ -47,7 +47,7 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="aspect-[3/4] bg-neutral-200">
               <ImageWithFallback
-                src="/PORTFOLIOPAGES/00-03-ABOUT/IMAGES-ME/Image(InteriorDesignerPortrait).png"
+ src="https://res.cloudinary.com/dk4hujmt3/image/upload/v1773803025/Image_InteriorDesignerPortrait_uttwm0.png"
                 alt="Andrew T. McClelland's Portrait"
                 className="w-full h-full object-cover"
               />
@@ -141,28 +141,28 @@ export default function AboutPage() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-16">
             <div className="aspect-square bg-neutral-100">
               <ImageWithFallback
-                src="/PORTFOLIOPAGES/00-03-ABOUT/IMAGES-ME/hiking.jpg"
+                src="https://res.cloudinary.com/dk4hujmt3/image/upload/v1773807188/hiking_gmwmld.webp"
                 alt="Hiking"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="aspect-square bg-neutral-100">
               <ImageWithFallback
-                src="/PORTFOLIOPAGES/00-03-ABOUT/IMAGES-ME/music.jpg"
+                src="https://res.cloudinary.com/dk4hujmt3/image/upload/v1773807189/music_fbytkq.jpg"
                 alt="Music"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="aspect-square bg-neutral-100">
               <ImageWithFallback
-                src="/PORTFOLIOPAGES/00-03-ABOUT/IMAGES-ME/travel.jpg"
+                src="https://res.cloudinary.com/dk4hujmt3/image/upload/v1773807188/travel_bmwtbi.jpg"
                 alt="Travel"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="aspect-square bg-neutral-100">
               <ImageWithFallback
-                src="/PORTFOLIOPAGES/00-03-ABOUT/IMAGES-ME/cooking.jpg"
+                src="https://res.cloudinary.com/dk4hujmt3/image/upload/v1773807188/cooking_uw5t3w.jpg"
                 alt="Cooking"
                 className="w-full h-full object-cover"
               />
