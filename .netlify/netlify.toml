@@ -23,3 +23,9 @@ command = "npm run build"
 [build.processing.js]
 
 [build.services]
+
+[[plugins]]
+    package = "netlify-plugin-cloudinary"
+
+    [plugins.inputs]
+    cloudName = "dk4hujmt3"
