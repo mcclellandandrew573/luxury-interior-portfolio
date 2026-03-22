@@ -37,7 +37,7 @@ export function IntroReel() {
   const videoRef = useRef<HTMLVideoElement>(null);
 
   const handleVideoEnd = () => {
-    setCurrentVideoIndex((prevIndex) => (prevIndex + 1) % videos.length);
+    setCurrentVideoIndex((prevIndex) => (prevIndex + 2) % videos.length);
   };
 
   useEffect(() => {
