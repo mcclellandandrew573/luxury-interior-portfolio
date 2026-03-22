@@ -54,7 +54,7 @@ export default function HomePage() {
             </div>
             <div className="aspect-[4/3] bg-neutral-100">
               <ImageWithFallback
-                src="/PORTFOLIOPAGES/05-00-Eyriehotel/HERO/ARRIVAL-HERO-IMAGE.png"
+                src="https://res.cloudinary.com/dk4hujmt3/image/upload/v1773805633/01_oocwuk.png"
                 alt="Featured project"
                 className="w-full h-full object-cover"
               />
