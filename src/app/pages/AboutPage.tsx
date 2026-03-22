@@ -47,7 +47,7 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="aspect-[3/4] bg-neutral-200">
               <ImageWithFallback
- src="https://res.cloudinary.com/dk4hujmt3/image/upload/v1773803025/Image_InteriorDesignerPortrait_uttwm0.png"
+                src="https://res.cloudinary.com/dk4hujmt3/image/upload/v1773803025/Image_InteriorDesignerPortrait_uttwm0.png"
                 alt="Andrew T. McClelland's Portrait"
                 className="w-full h-full object-cover"
               />
