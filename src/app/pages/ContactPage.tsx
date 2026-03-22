@@ -14,7 +14,7 @@ export default function ContactPage() {
             <div>
               <h1 className="text-5xl md:text-6xl mb-8">Get in Touch</h1>
               <p className="text-xl text-neutral-600 mb-12 leading-relaxed">
-                I'm always interested in hearing about new projects and opportunities. 
+                I'm always interested in hearing about new projects and opportunities.
                 Whether you're looking to collaborate or just want to say hello, feel free to reach out.
               </p>
 
@@ -42,7 +42,7 @@ export default function ContactPage() {
                   <div>
                     <h3 className="text-lg mb-1">Phone</h3>
                     <a
-                      href="tel:+4695252787"
+                      href="tel:+15551234567"
                       className="text-neutral-600 hover:text-neutral-900 transition-colors"
                     >
                       (469) 525-2787
@@ -69,7 +69,7 @@ export default function ContactPage() {
                 <h3 className="text-lg mb-4">Connect</h3>
                 <div className="flex gap-4">
                   <a
-                    href="https://www.linkedin.com/in/andrew-mcclelland-0373975b"
+                    href="https://linkedin.com"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-3 bg-neutral-100 hover:bg-neutral-900 transition-colors group"
@@ -77,7 +77,7 @@ export default function ContactPage() {
                     <Linkedin className="w-6 h-6 text-neutral-900 group-hover:text-white transition-colors" />
                   </a>
                   <a
-                    href="https://www.instagram.com/mcclellandandrew573?igsh=dzFsZWs4czJybWM5"
+                    href="https://instagram.com"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-3 bg-neutral-100 hover:bg-neutral-900 transition-colors group"
@@ -126,7 +126,7 @@ export default function ContactPage() {
                     type="tel"
                     id="phone"
                     className="w-full px-4 py-3 bg-white border border-neutral-200 focus:border-neutral-900 focus:outline-none transition-colors"
-                    placeholder="(555) 123-4567"
+                    placeholder="(XXX) XXX-XXXX"
                   />
                 </div>
 
@@ -141,8 +141,8 @@ export default function ContactPage() {
                     <option>Select project type</option>
                     <option>Residential Design</option>
                     <option>Commercial Design</option>
-                    <option>BIM Consultation</option>
-                    <option>Design Automation</option>
+                    <option>BIM & Automation</option>
+                    <option>Project Managment</option>
                     <option>Other</option>
                   </select>
                 </div>
@@ -194,7 +194,7 @@ export default function ContactPage() {
       <section className="px-6 lg:px-8 pb-20">
         <div className="max-w-7xl mx-auto">
           <div className="aspect-[21/9] bg-neutral-200 flex items-center justify-center">
-            <p className="text-neutral-500">Map placeholder - New York, NY</p>
+            <p className="text-neutral-500">Dallas, TX</p>
           </div>
         </div>
       </section>
