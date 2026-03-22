@@ -35,3 +35,10 @@ dist-ssr
 # Large media files (add manually to Git LFS if needed)
 public/
 !public/.gitkeep
+
+
+#Ignore vscode AI rules
+.github\instructions\codacy.instructions.md
+
+# Local Netlify folder
+.netlify
