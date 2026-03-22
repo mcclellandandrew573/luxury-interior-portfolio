@@ -14,7 +14,7 @@ export default function ResumePage() {
             <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-6 gap-6">
               <div className="flex items-center gap-6">
                 <img
-                  src="/PORTFOLIOPAGES/00-03-ABOUT/IMAGES-ME/InteriorDesignerPortrait.png"
+                  src="https://res.cloudinary.com/dk4hujmt3/image/upload/v1773803026/InteriorDesignerPortrait_utzaak.png"
                   alt="Andrew T. McClelland"
                   className="w-24 h-24 md:w-32 md:h-32 rounded-full object-cover shrink-0"
                 />
@@ -209,23 +209,23 @@ export default function ResumePage() {
               <div className="border-l-2 border-neutral-900 pl-6">
                 <div className="flex justify-between items-start mb-2">
                   <div>
-                    <h3 className="text-xl">Master of Interior Architecture</h3>
-                    <p className="text-neutral-600">Rhode Island School of Design (RISD)</p>
+                    <h3 className="text-xl">Bachelors of Science in Interior Design</h3>
+                    <p className="text-neutral-600">Art Institute of Pittsburgh, Pittsburgh PA</p>
                   </div>
-                  <span className="text-neutral-500 text-sm">2014 - 2016</span>
+                  <span className="text-neutral-500 text-sm">2010 - 2013</span>
                 </div>
                 <p className="text-neutral-700 mt-2">
-                  Graduated with Honors • Thesis: "Technology and Craft in Contemporary Interior Design"
+                  Graduated with Honors • Thesis: "Biomimicry Design Principals in the Built Environment"
                 </p>
               </div>
 
               <div className="border-l-2 border-neutral-200 pl-6">
                 <div className="flex justify-between items-start mb-2">
                   <div>
-                    <h3 className="text-xl">Bachelor of Fine Arts in Interior Design</h3>
-                    <p className="text-neutral-600">Parsons School of Design, New York, NY</p>
+                    <h3 className="text-xl">Bachelors of Science in International Marketing</h3>
+                    <p className="text-neutral-600">University of Arizona, Tuscon, AZ</p>
                   </div>
-                  <span className="text-neutral-500 text-sm">2010 - 2014</span>
+                  <span className="text-neutral-500 text-sm">2008-2010</span>
                 </div>
                 <p className="text-neutral-700 mt-2">
                   Summa Cum Laude • Dean's List all semesters
@@ -253,6 +253,7 @@ export default function ResumePage() {
                   <li>• Adobe Creative Suite</li>
                   <li>• Enscape & V-Ray Rendering</li>
                   <li>• Rhino & Grasshopper</li>
+<li>• Dynamo, Python, TypeScript, Design Script, C#, native WPF, Add-ins, APIs +</li>
                 </ul>
               </div>
 
