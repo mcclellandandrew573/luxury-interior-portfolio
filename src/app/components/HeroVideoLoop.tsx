@@ -1,14 +1,14 @@
 import React, { useState, useRef, useEffect } from 'react';
 
 const videos = [
-  '/portfolio-video-clips-intro/clip-00.mp4',
-  '/portfolio-video-clips-intro/clip-01.mp4',
-  '/portfolio-video-clips-intro/clip-02.mp4',
-  '/portfolio-video-clips-intro/clip-21.mp4',
-  '/portfolio-video-clips-intro/clip-22.mp4',
-  '/portfolio-video-clips-intro/clip-23.mp4',
-  '/portfolio-video-clips-intro/clip-24.mp4',
-  '/portfolio-video-clips-intro/clip-25.mp4',
+  'https://res.cloudinary.com/dk4hujmt3/video/upload/v1773807234/clip-00_slyhaa.mp4',
+  'https://res.cloudinary.com/dk4hujmt3/video/upload/v1773807236/clip-01_fm2pyv.mp4',
+  'https://res.cloudinary.com/dk4hujmt3/video/upload/v1773807236/clip-03_mik44b.mp4',
+  'https://res.cloudinary.com/dk4hujmt3/video/upload/v1773807228/clip-22_oxnzav.mp4',
+  'https://res.cloudinary.com/dk4hujmt3/video/upload/v1773807221/clip-17_emyvmh.mp4',
+  'https://res.cloudinary.com/dk4hujmt3/video/upload/v1773807238/clip-02_gjit3f.mp4',
+  'https://res.cloudinary.com/dk4hujmt3/video/upload/v1773807239/clip-05_zdxunn.mp4',
+  'https://res.cloudinary.com/dk4hujmt3/video/upload/v1773807242/clip-08_qpb9u6.mp4',
 ];
 
 export function HeroVideoLoop() {
