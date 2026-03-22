@@ -27,10 +27,10 @@ export default function ContactPage() {
                   <div>
                     <h3 className="text-lg mb-1">Email</h3>
                     <a
-                      href="mailto:jordan.davies@email.com"
+                      href="mailto:atm8136@gmail.com"
                       className="text-neutral-600 hover:text-neutral-900 transition-colors"
                     >
-                      jordan.davies@email.com
+                      atm8136@gmail.com
                     </a>
                   </div>
                 </div>
@@ -42,10 +42,10 @@ export default function ContactPage() {
                   <div>
                     <h3 className="text-lg mb-1">Phone</h3>
                     <a
-                      href="tel:+15551234567"
+                      href="tel:+4695252787"
                       className="text-neutral-600 hover:text-neutral-900 transition-colors"
                     >
-                      (555) 123-4567
+                      (469) 525-2787
                     </a>
                   </div>
                 </div>
@@ -57,7 +57,7 @@ export default function ContactPage() {
                   <div>
                     <h3 className="text-lg mb-1">Location</h3>
                     <p className="text-neutral-600">
-                      New York, NY<br />
+                      Dallas, TX<br />
                       Available for projects worldwide
                     </p>
                   </div>
@@ -69,7 +69,7 @@ export default function ContactPage() {
                 <h3 className="text-lg mb-4">Connect</h3>
                 <div className="flex gap-4">
                   <a
-                    href="https://linkedin.com"
+                    href="https://www.linkedin.com/in/andrew-mcclelland-0373975b"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-3 bg-neutral-100 hover:bg-neutral-900 transition-colors group"
@@ -77,7 +77,7 @@ export default function ContactPage() {
                     <Linkedin className="w-6 h-6 text-neutral-900 group-hover:text-white transition-colors" />
                   </a>
                   <a
-                    href="https://instagram.com"
+                    href="https://www.instagram.com/mcclellandandrew573?igsh=dzFsZWs4czJybWM5"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="p-3 bg-neutral-100 hover:bg-neutral-900 transition-colors group"
