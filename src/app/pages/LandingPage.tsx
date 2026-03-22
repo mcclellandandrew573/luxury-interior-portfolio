@@ -37,7 +37,7 @@ export default function LandingPage() {
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentPhrase((prev) => (prev + 2) % phrases.length);
-    }, 9500);
+    }, 7500);
 
     return () => clearInterval(interval);
   }, []);
