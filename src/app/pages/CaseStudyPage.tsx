@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Navigation } from '../components/Navigation';
 import { HeroSection } from '../components/HeroSection';
 import { TechnicalDocuments } from '../components/TechnicalDocuments';
@@ -19,12 +19,32 @@ import { WestHaven } from '../components/WestHaven';
 import { AftertheApplause } from '../components/AftertheApplause';
 import { SerpentAndSilk } from '../components/Serpent&Silk';
 import { EyrieHotel } from '../components/EyrieHotel';
+import { ProjectTeaserVideo } from '../components/ProjectTeaserVideo';
 import { projectsData } from '../data/projects';
 
 export default function CaseStudyPage() {
   const location = useLocation();
   const pathParts = location.pathname.split('/');
   const projectId = pathParts[pathParts.length - 1];
+
+  const [showOverlayTeaser, setShowOverlayTeaser] = useState(false);
+
+  useEffect(() => {
+    // Only show overlay teaser if not Clover and hasn't been seen in this session
+    if (projectId !== 'Clover') {
+      const seenKey = `seen_teaser_${projectId}`;
+      if (!sessionStorage.getItem(seenKey)) {
+        setShowOverlayTeaser(true);
+      }
+    } else {
+      setShowOverlayTeaser(false);
+    }
+  }, [projectId]);
+
+  const handleCloseOverlay = () => {
+    sessionStorage.setItem(`seen_teaser_${projectId}`, 'true');
+    setShowOverlayTeaser(false);
+  };
 
   const currentProject = projectsData.find(p => p.id === projectId) || {
     id: 'Fallback',
@@ -53,6 +73,14 @@ export default function CaseStudyPage() {
 
   return (
     <div className="min-h-screen bg-white">
+      {showOverlayTeaser && projectId !== 'Clover' && (
+        <ProjectTeaserVideo 
+          project={currentProject} 
+          isOverlay={true} 
+          onClose={handleCloseOverlay} 
+        />
+      )}
+      
       <Navigation />
 
       {/* Back Button */}
@@ -73,6 +101,10 @@ export default function CaseStudyPage() {
           image={currentProject.image}
         />
         {renderProjectBrief()}
+
+        {projectId !== 'Clover' && (
+          <ProjectTeaserVideo project={currentProject} isOverlay={false} />
+        )}
 
         {/* Footer */}
         <footer className="py-12 px-6 lg:px-8 bg-neutral-900 text-white">
