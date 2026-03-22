@@ -13,6 +13,7 @@ if (startIdx === -1 || endIdx === -1) {
 const cloverContent = content.substring(startIdx, endIdx);
 
 const projectsToUpdate = [
+    'Clover',
     'Revelstoke',
     'Capella',
     'WestHaven',
