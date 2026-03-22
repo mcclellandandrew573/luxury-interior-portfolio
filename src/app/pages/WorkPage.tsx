@@ -27,9 +27,9 @@ export default function WorkPage() {
       <section className="py-12 px-6 lg:px-8 bg-white">
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
-            {projects.map((project, index) => (
+            {projects.map((project) => (
               <Link
-                key={index}
+                key={project.link}
                 to={project.link}
                 className="group cursor-pointer"
               >
