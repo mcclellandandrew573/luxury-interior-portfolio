@@ -79,58 +79,58 @@ export const projectsData: ProjectData[] = [
       {
         title: 'Resort Style Pool',
         description: 'A tranquil retreat designed to create a resort-style living experience, enhance the unique appeal of the property while creating a statement to increase visability and drive occupancy rates.',
-        image: 'https://drive.google.com/file/d/1kSM5edpLM5sKIixpLu5qFilGalIXctkf/view?usp=drive_link'
+        image: 'https://res.cloudinary.com/dk4hujmt3/image/upload/v1773803531/clover_ba_09_after_dxpgap.jpg'
       },
       {
         title: 'Fitness Center',
         description: 'Updated fitness center with new equipment and finishes.',
-        image: 'https://drive.google.com/file/d/1sR-7oUH0b6h_iB-lJsEfoE7aMDRPfXbx/view?usp=drive_link'
+        image: 'https://res.cloudinary.com/dk4hujmt3/image/upload/v1773814051/VIEW_10_ez4kgf.png'
       },
       {
         title: 'Resident Lounge',
         description: 'An exclusive area for residents to unwind, featuring comfortable seating, and a premium beverage station.',
-        image: 'https://drive.google.com/file/d/1zCuevQAZEwyOFM-zx2OEXxZ9htgsYGmQ/view?usp=drive_link'
+        image: 'https://res.cloudinary.com/dk4hujmt3/image/upload/v1773814098/VIEW_14_dn6p1a.png'
       },
       {
         title: 'Playgrounds + Outdoor Kitchen/Grill Areas',
         description: 'Panoramic city views complemented by landscaped gardens, fire pits, and comfortable lounging areas perfect for evening gatherings.',
-        image: 'https://drive.google.com/file/d/1dcwcZYFhL5RQ6yTuhMPbDFCidCwOk1Yx/view?usp=drive_link'
+        image: 'https://res.cloudinary.com/dk4hujmt3/image/upload/v1773962581/mountain-home-thumb_fs5twk.jpg'
       },
       {
         title: 'Dog Park',
         description: 'Panoramic city views complemented by landscaped gardens, fire pits, and comfortable lounging areas perfect for evening gatherings.',
-        image: 'https://drive.google.com/file/d/1C53znYSMGluTOpnXyvhnld61ubgrykVy/view?usp=drive_link'
+        image: 'https://res.cloudinary.com/dk4hujmt3/image/upload/v1773962219/small_dog_kit_uqofic.jpg'
       },
       {
         title: 'Fire Pit Area',
         description: 'Panoramic city views complemented by landscaped gardens, fire pits, and comfortable lounging areas perfect for evening gatherings.',
-        image: 'https://drive.google.com/file/d/1rQozBC6kYcjP9YfBty3JWThQz1g7UBMT/view?usp=drive_link'
+        image: 'https://res.cloudinary.com/dk4hujmt3/image/upload/v1773962493/gravel-fire-pit-cons-v0-dmmdk5saaevd1_ottrab.jpg'
       }
     ],
     commonSpaces: [
       {
         title: 'Grand Entrance',
-        image: 'https://drive.google.com/file/d/1_78klSsQOYW1-TQke9I50S8DAgGNg4sz/view?usp=drive_link',
+        image: 'https://res.cloudinary.com/dk4hujmt3/image/upload/v1773803543/clover_ba_13_after_vb7i98.jpg',
         details: 'Double-height ceiling with custom leasing desk details and multifamily branding'
       },
       {
         title: 'Main Lobby',
-        image: 'https://drive.google.com/file/d/1agcaSV_VdNkgPlU3NPD3Cn3rAgijFE90/view?usp=drive_link',
+        image: 'https://res.cloudinary.com/dk4hujmt3/image/upload/v1773814098/VIEW_14_dn6p1a.png',
         details: 'Concrete stained flooring, buffalo check upholstry and black metal tables for perspective residents to engage with leasing agents.'
       },
       {
         title: 'Kitchenette - concept',
-        image: 'https://drive.google.com/file/d/1Z7gW3dHNzGoHfxZcJ4rczuuvoSfkI42H/view?usp=drive_link',
+        image: 'https://res.cloudinary.com/dk4hujmt3/image/upload/v1773961517/sketchofkitchenette_pke8ng.jpg',
         details: 'Green Tile, White Stone Countertops, Wood Details and finishes, Accent Color Upholstry.'
       },
       {
         title: 'Wifi Lounge + Co-working Bar - concept',
-        image: 'https://drive.google.com/file/d/1iCt72WPOXywnj6cpMZUOTH82DPyNxpIQ/view?usp=drive_link',
+        image: 'https://res.cloudinary.com/dk4hujmt3/image/upload/v1773803394/clover_sketch_03_nauux9.jpg',
         details: 'Natural Stained wood finishes, Black Metal and Matte Paint Accents, Green Upholstry accents and modern light fixtures.'
       },
       {
         title: 'Waiting Area',
-        image: 'https://drive.google.com/file/d/1IXD5Ztn1YhzZT27q0EbVRU5yqpq6UXCo/view?usp=drive_link',
+        image: 'https://res.cloudinary.com/dk4hujmt3/image/upload/v1773961466/Render_4_4x_cwxxwv.jpg',
         details: 'Stylized waiting area with accent wall and modern seating.'
       }
     ],
@@ -176,13 +176,13 @@ export const projectsData: ProjectData[] = [
       {
         title: 'Primary Palette & Textures',
         description: 'The foundation of the design features warm neutrals, natural stone, and brushed brass. This direction establishes a timeless and sophisticated atmosphere that flows throughout the space.',
-        image: 'https://drive.google.com/file/d/1iWJkVpqM6OHCoA14JOz8UMgjznkm_p4P/view?usp=drive_link',
+        image: 'https://res.cloudinary.com/dk4hujmt3/image/upload/v1773803263/clover_leasing_z6l8mv.png',
         tags: ['Warm Neutrals', 'Natural Stone', 'Brushed Brass', 'Organic Textures']
       },
       {
         title: 'Accent Elements & Styling',
         description: 'Layering depth through deep jewel tones, rich wood veneers, and sculptural lighting. These elements provide contrast and visual interest while maintaining elegance.',
-        image: 'https://drive.google.com/file/d/1tzSf7fNhz5tz8NeyXl1mV6wlQDhnWy-n/view?usp=drive_link',
+        image: 'https://res.cloudinary.com/dk4hujmt3/image/upload/v1773940674/Cloversketches_x97sxf.png',
         tags: ['Jewel Tones', 'Walnut Veneer', 'Sculptural Forms', 'Textured Glass']
       }
     ],
